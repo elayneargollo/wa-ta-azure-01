@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure\\ta-treinamento-azure.csproj": {}
+    "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure\\ta-treinamento-azure.csproj": {
+    "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure\\ta-treinamento-azure.csproj",
+        "projectUniqueName": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure.csproj",
         "projectName": "ta-treinamento-azure",
-        "projectPath": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure\\ta-treinamento-azure.csproj",
+        "projectPath": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure.csproj",
         "packagesPath": "C:\\Users\\elayne.argollo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\ta-treinamento-azure\\obj\\",
+        "outputPath": "C:\\Users\\elayne.argollo\\Documents\\wa-ta-azure-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elayne.argollo\\AppData\\Roaming\\NuGet\\NuGet.Config",

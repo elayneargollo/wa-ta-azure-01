@@ -1,11 +1,8 @@
-using System;
+namespace wa_ta_azure_01.Models;
 
-namespace ta_treinamento_azure.Models
+public class ErrorViewModel
 {
-    public class ErrorViewModel
-    {
-        public string RequestId { get; set; }
+    public string? RequestId { get; set; }
 
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-    }
+    public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
 }
